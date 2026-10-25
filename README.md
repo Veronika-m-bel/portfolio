@@ -20,7 +20,7 @@ QA Engineer / L2 Support Specialist с техническим бэкграунд
 
 ### 1. 📊 DVD Rental SQL Analytics & Data Integrity
 Коллекция аналитических SQL-запросов и скриптов для валидации данных, написанных для базы данных PostgreSQL (`dvdrental`). Проект демонстрирует навыки поиска аномалий (QA/Support), построения многотабличных связей и аналитики с использованием CTE.
-* **Технологии:** PostgreSQL, DBeaver, SQL.
+* **Стек технологий:** PostgreSQL, DBeaver, SQL.
 * 👉 [Посмотреть репозиторий проекта](https://github.com/Veronika-m-bel/sql-dvdrental-analytics)
 
 ### 2. 🔌 DummyJSON API Testing (Postman)
