@@ -34,7 +34,7 @@ QA Engineer / L2 Support Specialist с техническим бэкграунд
 
 ## 📫 Как связаться со мной
 * **GitHub:** [@Veronika-m-bel](https://github.com/Veronika-m-bel)
-* **Telegram:** [@Veroonikaa_mm](https://t.me/veroonikaa_mm)
+* **Telegram:** [@Veronika_m_bel](https://t.me/veroonikaa_mm)
 * **Телефон** +375 44 460 95 11
 
 
